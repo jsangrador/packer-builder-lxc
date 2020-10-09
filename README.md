@@ -1,3 +1,5 @@
+Development of this fork has been moved to https://gitlab.com/jsangradorp/packer-builder-lxc
+
 packer-builder-lxc
 ==================
 
